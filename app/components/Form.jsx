@@ -19,6 +19,6 @@ var Form = React.createClass({
       </form>
     );
   }
-});
+}); 
 
 module.exports = Form;
